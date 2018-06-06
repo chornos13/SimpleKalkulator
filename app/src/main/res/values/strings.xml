@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Kalkulator</string>
+    <string name="masukan_angka">Masukan Angka</string>
+    <string name="simbol_tambah">+</string>
+    <string name="simbol_kurang">-</string>
+    <string name="simbol_bagi">/</string>
+    <string name="simbol_kali">*</string>
+    <string name="hasil">Hasil:</string>
+</resources>
